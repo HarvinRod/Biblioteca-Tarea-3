@@ -1,0 +1,198 @@
+# Ignorar archivos de compilación y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignorar directorios de compilación y dependencias
+/build/
+/dist/
+/node_modules/
+/target/
+/venv/
+/.env
+
+# Ignorar archivos de configuración local
+*.env
+*.local
+
+# Ignorar archivos generados por IDEs
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de documentación generada
+*.pdf
+*.docx
+
+# Ignorar archivos específicos del sistema operativo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignorar archivos de pruebas y cobertura
+*.coverage
+*.lcov
+
+# Ignorar archivos de base de datos
+*.db
+*.sqlite
+
+# Ignorar archivos de configuración de Git
+/.gitignore
+/.gitattributes
+
+# Ignorar archivos de compilación y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignorar directorios de compilación y dependencias
+/build/
+/dist/
+/node_modules/
+/target/
+/venv/
+/.env
+
+# Ignorar archivos de configuración local
+*.env
+*.local
+
+# Ignorar archivos generados por IDEs
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de documentación generada
+*.pdf
+*.docx
+
+# Ignorar archivos específicos del sistema operativo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignorar archivos de pruebas y cobertura
+*.coverage
+*.lcov
+
+# Ignorar archivos de base de datos
+*.db
+*.sqlite
+
+# Ignorar archivos de configuración de Git
+/.gitignore
+/.gitattributes
+# Ignorar archivos de compilación y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignorar directorios de compilación y dependencias
+/build/
+/dist/
+/node_modules/
+/target/
+/venv/
+/.env
+
+# Ignorar archivos de configuración local
+*.env
+*.local
+
+# Ignorar archivos generados por IDEs
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de documentación generada
+*.pdf
+*.docx
+
+# Ignorar archivos específicos del sistema operativo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignorar archivos de pruebas y cobertura
+*.coverage
+*.lcov
+
+# Ignorar archivos de base de datos
+*.db
+*.sqlite
+
+# Ignorar archivos de configuración de Git
+/.gitignore
+/.gitattributes
+# Ignorar archivos de compilación y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignorar directorios de compilación y dependencias
+/build/
+/dist/
+/node_modules/
+/target/
+/venv/
+/.env
+
+# Ignorar archivos de configuración local
+*.env
+*.local
+
+# Ignorar archivos generados por IDEs
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de documentación generada
+*.pdf
+*.docx
+
+# Ignorar archivos específicos del sistema operativo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignorar archivos de pruebas y cobertura
+*.coverage
+*.lcov
+
+# Ignorar archivos de base de datos
+*.db
+*.sqlite
+
+# Ignorar archivos de configuración de Git
+/.gitignore
+.gitignore
+
